@@ -1,0 +1,4 @@
+Command Line Compiling for Microcontroller:
+avr-gcc –mmcu=atmega32u4 –Os –DF_CPU=8000000UL <program_name>.c
+-o <program_name>.o
+avr-objcopy –O ihex <program_name>.o <program_name>.hex
