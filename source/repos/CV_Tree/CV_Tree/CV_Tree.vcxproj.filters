@@ -36,49 +36,127 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\x64\Debug\data\AdorGV.faa" />
-    <None Include="..\x64\Debug\data\AIHV_1.faa" />
-    <None Include="..\x64\Debug\data\AMEV.faa" />
-    <None Include="..\x64\Debug\data\APMiV.faa" />
-    <None Include="..\x64\Debug\data\ASFV.faa" />
-    <None Include="..\x64\Debug\data\AsGV.faa" />
-    <None Include="..\x64\Debug\data\AtHV_3.faa" />
-    <None Include="..\x64\Debug\data\ATV.faa" />
-    <None Include="..\x64\Debug\data\BAdV_4.faa" />
-    <None Include="..\x64\Debug\data\BAdV_A.faa" />
-    <None Include="..\x64\Debug\data\BAdV_B.faa" />
-    <None Include="..\x64\Debug\data\BmNPV.faa" />
-    <None Include="..\x64\Debug\data\BoHV_1.faa" />
-    <None Include="..\x64\Debug\data\BoHV_4.faa" />
-    <None Include="..\x64\Debug\data\BoHV_5.faa" />
-    <None Include="..\x64\Debug\data\BPSV.faa" />
-    <None Include="..\x64\Debug\data\CAdV.faa" />
-    <None Include="..\x64\Debug\data\CalHV_3.faa" />
-    <None Include="..\x64\Debug\data\CcBV.faa" />
-    <None Include="..\x64\Debug\data\CeHV_1.faa" />
-    <None Include="..\x64\Debug\data\CeHV_2.faa" />
-    <None Include="..\x64\Debug\data\CeHV_8.faa" />
-    <None Include="..\x64\Debug\data\CeHV_15.faa" />
-    <None Include="..\x64\Debug\data\CeHV_17.faa" />
-    <None Include="..\x64\Debug\data\CfDeFNPV.faa" />
-    <None Include="..\x64\Debug\data\CfMNPV.faa" />
-    <None Include="..\x64\Debug\data\CHV_7.faa" />
-    <None Include="..\x64\Debug\data\CMLV.faa" />
-    <None Include="..\x64\Debug\data\CNPV.faa" />
-    <None Include="..\x64\Debug\data\CpGV.faa" />
-    <None Include="..\x64\Debug\data\CPXV.faa" />
-    <None Include="..\x64\Debug\data\CrleGV.faa" />
-    <None Include="..\x64\Debug\data\CuniNPV.faa" />
-    <None Include="..\x64\Debug\data\DAdV_A.faa" />
-    <None Include="..\x64\Debug\data\DPV.faa" />
-    <None Include="..\x64\Debug\data\ECTV.faa" />
-    <None Include="..\x64\Debug\data\EHV_1.faa" />
-    <None Include="..\x64\Debug\data\EHV_2.faa" />
-    <None Include="..\x64\Debug\data\EHV_4.faa" />
     <None Include="..\x64\Debug\data\AcMNPV.faa">
       <Filter>Source Files</Filter>
     </None>
     <None Include="..\x64\Debug\data\AdhoNPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\AdorGV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\AIHV_1.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\AMEV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\APMiV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\ASFV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\AsGV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\AtHV_3.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\ATV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BAdV_4.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BAdV_A.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BAdV_B.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BmNPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BoHV_1.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BoHV_4.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BoHV_5.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\BPSV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CAdV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CalHV_3.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CcBV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CeHV_1.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CeHV_2.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CeHV_8.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CeHV_15.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CeHV_17.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CfDeFNPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CfMNPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CHV_7.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CMLV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CNPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CpGV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CPXV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CrleGV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\CuniNPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\DAdV_A.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\DPV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\ECTV.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\EHV_1.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\EHV_2.faa">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\data\EHV_4.faa">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
