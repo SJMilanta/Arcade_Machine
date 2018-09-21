@@ -209,6 +209,9 @@
     <None Include="..\data\EHV_2.faa" />
     <None Include="..\data\EHV_4.faa" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\list.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
